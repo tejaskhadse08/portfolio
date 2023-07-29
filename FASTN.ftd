@@ -1,0 +1,20 @@
+-- import: fastn
+
+-- fastn.package: tejaskhadse08.github.io/portfolio
+favicon: /-/tejaskhadse08.github.io/portfolio/images/favicon.ico
+
+-- fastn.dependency: fastn-community.github.io/doc-site as doc-site
+-- fastn.dependency: fastn-community.github.io/footer
+-- fastn.dependency: fastn-community.github.io/roboto-typography
+-- fastn.dependency: ayushsoni1010.github.io/ui-packages as package
+
+-- fastn.auto-import: tejaskhadse08.github.io/portfolio/FASTN/ds
+-- fastn.auto-import: tejaskhadse08.github.io/portfolio/assets
+-- fastn.auto-import: doc-site
+-- fastn.auto-import: package
+
+-- fastn.sitemap:
+
+# Home: index.html
+
+- Right Sidebar Sample: /sidebar/
